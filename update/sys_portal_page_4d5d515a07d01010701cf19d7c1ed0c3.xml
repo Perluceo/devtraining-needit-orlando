@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-04-23 00:08:03">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-22 23:59:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d5d515a07d01010701cf19d7c1ed0c3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Other Stuff</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_4d5d515a07d01010701cf19d7c1ed0c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 00:00:26</sys_updated_on>
+        <title>PA Other Stuff</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Other Stuff">4d5d515a07d01010701cf19d7c1ed0c3</page>
+                <summary>Antivirus Events</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-04-23 00:02:06</sys_created_on>
+                <sys_id>34fd1d5a07d01010701cf19d7c1ed0c6</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-04-23 00:02:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-04-22 17:02:06">34fd1d5a07d01010701cf19d7c1ed0c6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-23 00:02:07</sys_created_on>
+                        <sys_id>30fd9d5a07d01010701cf19d7c1ed073</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-23 00:02:07</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-04-22 17:02:06">34fd1d5a07d01010701cf19d7c1ed0c6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-23 00:02:07</sys_created_on>
+                        <sys_id>3cfd1d5a07d01010701cf19d7c1ed0cb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-23 00:02:07</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-04-22 17:02:06">34fd1d5a07d01010701cf19d7c1ed0c6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-23 00:02:07</sys_created_on>
+                        <sys_id>78fd9d5a07d01010701cf19d7c1ed073</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-23 00:02:07</sys_updated_on>
+                        <value>breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-04-22 17:02:06">34fd1d5a07d01010701cf19d7c1ed0c6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-23 00:02:07</sys_created_on>
+                        <sys_id>7cfd9d5a07d01010701cf19d7c1ed072</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-23 00:02:07</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-04-22 17:02:06">34fd1d5a07d01010701cf19d7c1ed0c6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-23 00:02:06</sys_created_on>
+                        <sys_id>b4fd1d5a07d01010701cf19d7c1ed0c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-23 00:02:06</sys_updated_on>
+                        <value>1537a3a753577300a8ed21fac2dc347e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-04-22 17:02:06">34fd1d5a07d01010701cf19d7c1ed0c6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-04-23 00:02:07</sys_created_on>
+                        <sys_id>f0fd9d5a07d01010701cf19d7c1ed073</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-04-23 00:02:07</sys_updated_on>
+                        <value>Antivirus Events</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
